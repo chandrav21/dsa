@@ -1,2 +1,2 @@
 # dsa
-Important DSA questions and answers
+All DSA questions with solutions for practice
